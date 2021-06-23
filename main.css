@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  max-width: 1500px;
+}
+
+img {
+  width: 100%;
+}
+
+/* COLORS */
+:root {
+  --darkgreen: #1e3932;
+  --mediumgreen: #008248;
+  --lightgreen: #d4e9e2;
+  --whiteish: #f1f8f6;
+  --cream: #f3f1e7;
+  --black: #000000;
+}
+
+body {
+  /* overflow-x: hidden;
+  background-color: var(--whiteish);
+  background-image: url("reference.png");
+  background-repeat: no-repeat;
+  background-position: top; */
+}
